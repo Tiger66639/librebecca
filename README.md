@@ -1,5 +1,5 @@
 ------------------------------------------------------------------
-
+[![Build Status](https://travis-ci.org/Tiger66639/librebecca.svg)](https://travis-ci.org/Tiger66639/librebecca)
 * WELCOME!
 
 This is the RebeccaAIML Project.  
